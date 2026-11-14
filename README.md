@@ -24,13 +24,12 @@ The goal is to understand how customer acquisition costs, conversion rates, reve
 - Unit Economics
 
 ## Key Metrics
-
-- Conversion Rate (CR)
-- Customer Acquisition Cost (CAC)
+- CR
+- CAC
 - Revenue
-- Cost of Goods Sold (COGS)
+- COGS
 - Gross Profit
-- Return on Marketing Investment (ROMI)
+- ROMI
 
 ## Project Status
 

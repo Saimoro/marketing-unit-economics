@@ -1,8 +1,6 @@
 # marketing-unit-economics
 Dynamic marketing unit economics model built with Excel
 
-# Marketing Unit Economics
-
 ## About the Project
 
 An educational data analytics project focused on building a dynamic marketing unit economics model using MS Excel
